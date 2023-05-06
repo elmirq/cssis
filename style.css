@@ -1,0 +1,43 @@
+h2 {
+    color: red;
+    background-color: black;
+}
+
+.all {
+    width: 150px;
+    height: 200px;
+    padding: 80px;
+    border-radius: 4px;
+    box-shadow: 0 5px 9px #d8c8f8;
+    text-align: center;
+    background-color: #d8c8f8;
+    color: #7401e8;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+body {
+    background-color: #4B0082;
+}
+
+img {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 250px;
+}
+
+.bmw {
+    width: 200px;
+    height: 800px;
+    padding: 160px;
+    border-radius: 4px;
+    box-shadow: 0 5px 9px #d8c8f8;
+    background-color: #d8c8f8;
+    color: #7401e8;
+    margin: auto;
+
+
+
+}
